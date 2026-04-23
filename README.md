@@ -1,5 +1,4 @@
-# SQL-Data-Integrity-Audit
-Automated SQL Data Integrity Audit procedure that identifies discrepancies between main balances and transaction details, featuring a real-time system health reporting engine."
-
+# Automated-SQL-Data-Reconciliation-Tool
+Automated SQL stored procedure for data reconciliation between financial summary tables and transaction logs. Features automated issue logging and health percentage calculation.
 
 ![Audit Report Result](image.png)
